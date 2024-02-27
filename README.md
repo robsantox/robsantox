@@ -2,7 +2,7 @@
 
 Olá! Meu nome é Robson, sou formado em Marketing, mas sempre tive um forte interesse na área de tecnologia. Iniciei meus estudos por meio de alguns cursos e videoaulas gratuitas no Youtube, como as do <b>B7Web</b> e <b>Origamid</b>, que ensinam HTML, CSS e JavaScript.
 
-Buscando aprimorar meus conhecimentos, participei de alguns bootcamps e cursos, incluindo o "The Web Developer Bootcamp" ministrado pelo <b>Colt Steele</b> e o projeto "Hall to Code 3" em parceria com a <b>Agência e-Plus</b>, ambos focados em HTML, CSS, JavaScript, React e Node. 
+Buscando aprimorar meus conhecimentos, participei de alguns bootcamps e cursos, incluindo o "The Web Developer Bootcamp" ministrado pelo <b>Colt Steele</b> e o projeto "Hall to Code 3" em parceria com a <b>Agência e-Plus</b>, ambos focados em HTML, CSS e JavaScript. 
 
 Atualmente estou cursando Técnico em Desenvolvimento de Sistemas no <b>Senac Santos</b>, onde continuo aprimorando e ampliando minhas habilidades na área de desenvolvimento.
 
