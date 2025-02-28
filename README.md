@@ -12,7 +12,7 @@ Sou formado em Marketing, mas sempre tive um forte interesse na área de tecnolo
 
 Buscando aprimorar meus conhecimentos, participei de alguns bootcamps e cursos, incluindo o "The Web Developer Bootcamp" ministrado pelo <b>Colt Steele</b> e o projeto "Hall to Code 3" em parceria com a <b>Agência e-Plus</b>, ambos focados em HTML, CSS e JavaScript. 
 
-Atualmente estou cursando Técnico em Desenvolvimento de Sistemas no <b>Senac Santos</b>, onde continuo aprimorando e ampliando minhas habilidades na área de desenvolvimento.
+Também cursei por alguns meses o Técnico em Desenvolvimento de Sistemas no <b>Senac Santos</b>, onde continuei aprimorando e ampliando minhas habilidades no desenvolvimento de alguns projetos.
 
 ##
 
