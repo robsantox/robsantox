@@ -55,7 +55,7 @@ Também cursei por alguns meses o Técnico em Desenvolvimento de Sistemas no <b>
 
 ##
 <div align="center">
-  <a href="https://github.com/galdinorobs">
+  <a href="https://github.com/robsantox">
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galdinorobs&layout=compact&langs_count=7&theme=dark"/>
 </div>
    
